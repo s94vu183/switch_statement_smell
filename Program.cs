@@ -57,13 +57,13 @@ namespace ConsoleApplication1
 
             foreach (var animal in animals)
             {
-                if (animal.AnimalType == "dog")
+               /* if (animal.AnimalType == "dog")
                 {
                     Console.WriteLine(animal.Name + "汪汪");
                 } else if (animal.AnimalType == "cat")
                 {
                     Console.WriteLine(animal.Name + "喵喵");
-                }
+                }*/
             }
         }
     }
